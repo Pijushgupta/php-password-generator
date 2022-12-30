@@ -1,7 +1,7 @@
 ###### Clone the repo
 
 ```sh
-git clone https://
+git clone https://github.com/Pijushgupta/php-password-generator.git
 ```
 
 ```php
